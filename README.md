@@ -1,6 +1,6 @@
 # Scheme
 
-Scheme is a Python-based interpretor for a subset of the Scheme language. The subset of the language used in this project is 
+Scheme is a Python-based interpreter for a subset of the Scheme language. The subset of the language used in this project is 
 described in the [Functional Programming](http://composingprograms.com/pages/32-functional-programming.html) section of 
 Composing Programs.
 
@@ -27,7 +27,7 @@ python3 scheme.py
 ```
 
 Upon executing the above, a ```scm>``` prompt will be displayed on the terminal. From there, you can execute typical Scheme commands. 
-To stop execution, press ```ctrl```+```D```.
+To stop execution, press ```CTRL```+```D```.
 
 ## Author
 
