@@ -8,20 +8,20 @@ Composing Programs.
 
 ### Installation
 
-1. Install the ```Scheme``` archive by downloading [```Scheme-master.zip```](https://github.com/tchitete1/Scheme/archive/master.zip)
+1. Install the ```scheme-master``` archive by downloading [```scheme-master.zip```](https://github.com/tchitete1/scheme/archive/master.zip)
 2. Open a new terminal window in the directory where the archive was downloaded
-3. Unzip the archive using the following command to obtain the ```Scheme-master``` directory:
+3. Unzip the archive using the following command to obtain the ```scheme-master``` directory:
 ```
-unzip Scheme-master.zip
+unzip scheme-master.zip
 ```
-4. Change into the ```Scheme-master``` directory by executing the following command:
+4. Change into the ```scheme-master``` directory by executing the following command:
 ```
-cd Scheme-master
+cd scheme-master
 ```
 
 ### Execution
 
-* To execute ```Scheme```, execute the following:
+* To execute ```scheme```, execute the following:
 ```
 python3 scheme.py
 ```
